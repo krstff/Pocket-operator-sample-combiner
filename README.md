@@ -11,7 +11,7 @@ A Python script that takes a directory of samples and combines them into one fil
 
 ## Features
 
-- Feature 1: Brief description
+- Feature 1: Idk
 - Feature 2: Brief description
 - Feature 3: Brief description
 
